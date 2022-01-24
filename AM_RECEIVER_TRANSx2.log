@@ -1,0 +1,24 @@
+Circuit: * C:\Users\tatha\OneDrive\Desktop\IE_Project\AM_RECEIVER_TRANSx2.asc
+
+WARNING: Node V_OUT is floating.
+
+WARNING: Less than two connections to node V_OUT.  This node is used by C7.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Apr  1 16:24:22 2021
+Total elapsed time: 7.757 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2006010
+traniter = 2005988
+tranpoints = 798109
+accept = 533012
+rejected = 265097
+matrix size = 23
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.27 KB object code size  0.2/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
